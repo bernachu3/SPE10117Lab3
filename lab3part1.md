@@ -5,7 +5,7 @@ Part 3
 Paper: [Cyber physical ecommerce logistics system: An implementation case in Hong Kong](https://www.sciencedirect.com/science/article/pii/S0360835219306394)
 
 1. Ecommerce is a vital part of Hong Kong's economy, however the city's infrastructure has stalled. The paper introduces and recommends the system CPeLS for improving the city's logistics
-2.
+2. Keywords:
 + Ecommerce logistics park
 + Cloud computing
 + Smart management
